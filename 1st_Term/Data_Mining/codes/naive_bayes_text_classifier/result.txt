@@ -1,0 +1,5 @@
+Achieved 91.09% correctness evaluating with traindata
+Achieved 80.2% correctness evaluating with testdata
+Achieved 97.2% correctness evaluating with traindata
+Achieved 80.2% correctness evaluating with testdata
+
