@@ -1,0 +1,3 @@
+Achieved 97.2% correctness evaluating with traindata.txt
+Achieved 80.2% correctness evaluating with testdata.txt
+
